@@ -1,5 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>ThinkBot 🤖<br><br>👯 I’m looking to collaborate on<br>Full Stack Development projects<br><br>🤝 I’m looking for help with<br>Backend Development<br><br>🌱 I’m currently learning<br>Full Stack Development<br><br>💬 Ask me about<br>Web Development<br><br>⚡ Fun fact<br>I enjoy building projects that connect frontend & backend seamlessly 😄
 
 
 ## 🌐 Socials:
