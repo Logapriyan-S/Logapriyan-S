@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Logapriyan S</h1>
-<h3 align="center">Full Stack Developer | Django REST | React TypeScript | Open Source Enthusiast</h3>
+<h1 align="center">Hi I'm Logapriyan S</h1>
+<h3 align="center">Full Stack Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Logapriyan-S&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
