@@ -3,7 +3,7 @@
 </p>
 
 ---
-## ── 💫 About Me ──
+## 💫 About Me
 
 I'm Loga.
 
