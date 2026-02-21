@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=55&duration=2500&pause=1500&color=FFFFFF&center=true&vCenter=true&width=1000&lines=HI+I'M+LOGA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=55&duration=2500&pause=1500&color=FFFFFF&center=true&vCenter=true&width=1000&lines=+I'M+LOGA" />
 </p>
 
 ---
+##  About Me
 
-# 💫 About Me:
-I code to build real systems (ง •̀_•́)ง
-
+I enjoy building things that actually work.  
+I like clean code, real systems, and learning by doing.  
+Always curious. Always improving.
 ![Snake animation](https://raw.githubusercontent.com/Logapriyan-S/Logapriyan-S/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://raw.githubusercontent.com/alan61503/alan61503/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%">
@@ -52,7 +53,5 @@ I code to build real systems (ง •̀_•́)ง
 
 ---
 
-## 💰 Support Me
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](YOUR_DONATION_LINK)
 
 ---
