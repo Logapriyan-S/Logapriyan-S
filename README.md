@@ -9,7 +9,7 @@ I code to build real systems (ง •̀_•́)ง
 
 ![Snake animation](https://raw.githubusercontent.com/Logapriyan-S/Logapriyan-S/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%">
+<img src="https://raw.githubusercontent.com/alan61503/alan61503/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%">
 ---
 
 ## 🌐 Socials:
