@@ -3,11 +3,12 @@
 </p>
 
 ---
-##  About Me
+╭─── 💫  About Me  ───╮
 
-I enjoy building things that actually work.  
-I like clean code, real systems, and learning by doing.  
-Always curious. Always improving.
+I'm Loga.
+I enjoy building real systems and understanding how they work.
+
+╰──────────────────────╯
 ![Snake animation](https://raw.githubusercontent.com/Logapriyan-S/Logapriyan-S/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://raw.githubusercontent.com/alan61503/alan61503/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%">
