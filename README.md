@@ -43,12 +43,11 @@ I enjoy building real-world systems and understanding how they work behind the s
 
 ---
 
-## 📊 GitHub Stats
+
 
 ## 📊 GitHub Stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Logapriyan-S&theme=radical" width="100%" />
-[![](https://visitcount.itsvg.in/api?id=Logapriyan-S&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
