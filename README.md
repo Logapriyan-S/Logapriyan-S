@@ -2,8 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=2500&pause=1500&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋;I'm+Loga" />
 </p>
 
+---
+
 # 💫 About Me:
 I code to build real systems (ง •̀_•́)ง
+
+![Snake animation](https://raw.githubusercontent.com/Logapriyan-S/Logapriyan-S/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="1000">
 
@@ -39,17 +43,17 @@ I code to build real systems (ง •̀_•́)ง
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Logapriyan's Stats](https://github-readme-stats.vercel.app/api?username=Logapriyan-S&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Logapriyan-S&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Logapriyan-S&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
 ## 💰 Support Me
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](YOUR_LINK_IF_YOU_WANT)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](YOUR_DONATION_LINK)
 
 ---
