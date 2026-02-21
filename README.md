@@ -14,7 +14,7 @@ I enjoy building real-world systems and understanding how they work behind the s
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([YOUR_LINKEDIN](https://www.linkedin.com/in/logapriyan-s-24b956306/))
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](YOUR_INSTAGRAM)
 
 ---
