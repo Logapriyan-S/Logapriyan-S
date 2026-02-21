@@ -45,11 +45,9 @@ I enjoy building real-world systems and understanding how they work behind the s
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Logapriyan-S&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Logapriyan-S&layout=compact&theme=radical)
----
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Logapriyan-S&theme=radical" width="100%" />
 [![](https://visitcount.itsvg.in/api?id=Logapriyan-S&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
