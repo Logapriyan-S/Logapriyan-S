@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&duration=2500&pause=1000&color=FF00FF&center=true&vCenter=true&width=950&lines=HELLO+WORLD;I'm+Logapriyan;Full+Stack+Engineer;Backend+Architecture+Enthusiast" />
+</p>
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 # 💫 About Me:
