@@ -13,9 +13,14 @@ I enjoy building real-world systems and understanding how they work behind the s
 <img src="https://raw.githubusercontent.com/alan61503/alan61503/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%">
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([YOUR_LINKEDIN](https://www.linkedin.com/in/logapriyan-s-24b956306/))
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](YOUR_INSTAGRAM)
+<p align="center">
+  <a href="https://www.linkedin.com/in/logapriyan-s-24b956306/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_logaz_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
