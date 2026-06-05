@@ -6,8 +6,7 @@
 
 ## 💫 About Me
 
-Full Stack Developer focused on building AI-integrated backend systems.
-Currently working with **LangGraph, RAG pipelines, and LLM APIs** to build
+Full Stack Developer focused on building AI-integrated backend systems. with **LangGraph, RAG pipelines, and LLM APIs** to build
 production-grade applications that go beyond basic CRUD.
 
 - 🔭 Built a **course generation API** at Shearaion using LangGraph state machines, RAG with Milvus, and Gemini 2.5 Pro
@@ -50,7 +49,7 @@ production-grade applications that go beyond basic CRUD.
 - LangGraph state machine with human-in-the-loop review checkpoints
 - RAG pipeline using Milvus vector store + OpenAI embeddings
 - Multi-format parser supporting 8+ languages via Tree-sitter
-- Switchable LLM providers: Gemini 2.5 Pro / GPT-4o
+- Switchable LLM providers
 
 **Stack:** Python · Django · LangGraph · RAG · Milvus · Gemini AI · AWS S3
 
