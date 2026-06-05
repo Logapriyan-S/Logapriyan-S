@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=2500&pause=1500&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Logapriyan;AI+Backend+Developer;Full+Stack+Engineer;LangGraph+%7C+RAG+%7C+Django" />
 </p>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%">
 
 ---
 
@@ -17,7 +18,6 @@ production-grade applications that go beyond basic CRUD.
 - 🔓 Available for **freelance projects**
 
 ![Snake animation](https://raw.githubusercontent.com/Logapriyan-S/Logapriyan-S/output/github-contribution-grid-snake-dark.svg)
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%">
 
 ---
 
