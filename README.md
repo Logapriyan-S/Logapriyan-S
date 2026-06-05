@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=2500&pause=1500&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Logapriyan;AI+Backend+Developer;Full+Stack+Engineer;LangGraph+%7C+RAG+%7C+Django" />
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%">
-
+<img src="https://raw.githubusercontent.com/alan61503/alan61503/refs/heads/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%">
 ---
 
 ## 💫 About Me
