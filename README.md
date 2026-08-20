@@ -13,7 +13,7 @@ production-grade applications that go beyond basic CRUD.
 - 🛡️ Built a **QA Risk Analysis Platform** with a weighted scoring engine that auto-classifies regression risk
 - 🌱 Deepening expertise in **agentic AI workflows, vector databases, and LLM orchestration**
 - 💼 Open to **AI Backend, Full Stack, and Generative AI roles**
-- 🔓 Available for **freelance projects**
+
 
 ![Snake animation](https://raw.githubusercontent.com/Logapriyan-S/Logapriyan-S/output/github-contribution-grid-snake-dark.svg)
 
